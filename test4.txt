@@ -1,0 +1,2 @@
+Hello I am someone and I am special
+cause I was created from feature2 branch.
